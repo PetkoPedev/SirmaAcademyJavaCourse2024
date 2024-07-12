@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9c03a21-160b-4682-a8bf-0c395fa56eec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19-SOLIDExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/MediaPlayerTask/AdvancedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/MediaPlayerTask/BasicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/MediaPlayerTask/FullFeaturedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/MediaPlayerTask/ShufflePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/MediaPlayerTask/SimplePlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/MediaPlayerTask/SkipPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/PrinterTask/A3Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/PrinterTask/Fax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/PrinterTask/FaxMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/PrinterTask/InkjetPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/PrinterTask/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/InterfaceSegregationPrinciple/PrinterTask/Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LiskovSubstitutionPrinciple/BirdTask/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LiskovSubstitutionPrinciple/BirdTask/Flyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LiskovSubstitutionPrinciple/BirdTask/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LiskovSubstitutionPrinciple/BirdTask/RunBirdTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LiskovSubstitutionPrinciple/BirdTask/Seagull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LiskovSubstitutionPrinciple/BirdTask/Walker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LiskovSubstitutionPrinciple/EngineTask/ElectricEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LiskovSubstitutionPrinciple/EngineTask/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LiskovSubstitutionPrinciple/EngineTask/PetrolEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LiskovSubstitutionPrinciple/EngineTask/RunEngineTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/LiskovSubstitutionPrinciple/EngineTask/SteamEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openClosePrinciple/DiscountTask/DiscountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openClosePrinciple/DiscountTask/RunDiscountType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openClosePrinciple/LoggerTask/ConsoleLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openClosePrinciple/LoggerTask/FileLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openClosePrinciple/LoggerTask/LogInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/openClosePrinciple/LoggerTask/RunLoggerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/singleResponsibility/BookTask/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/singleResponsibility/BookTask/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/singleResponsibility/BookTask/RunBookTask.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2j32ffO8aYRKqFdxNloJj34LtSK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.RunBirdTask.executor": "Run",
+    "Application.RunBookTask.executor": "Run",
+    "Application.RunDiscountType.executor": "Run",
+    "Application.RunEngineTask.executor": "Run",
+    "Application.RunInvoiceTask.executor": "Run",
+    "Application.RunLoggerTask.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/My Stuff/Sirma/Sirma Academy Backend Course/19-SOLIDExercises/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9c03a21-160b-4682-a8bf-0c395fa56eec" name="Changes" comment="" />
+      <created>1720601545398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720601545398</updated>
+    </task>
+    <servers />
+  </component>
+</project>
